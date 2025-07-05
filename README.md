@@ -23,6 +23,12 @@ A Machine Learning web app built with **Python**, **Flask**, and **HTML/CSS** th
 * **Data:** Fake.csv, True.csv, Indian datasets (custom)
 
 ---
+## 📷 Screenshot
+
+Here’s a preview of the interactive UI with light background and modern design:
+
+![Fake News Detector UI](static/finalpresent.png)
+
 
 ## 🚀 How to Run Locally
 
