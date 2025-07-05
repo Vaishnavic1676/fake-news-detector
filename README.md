@@ -85,7 +85,7 @@ http://127.0.0.1:5000
 
 **Vaishnavi Chougule**
 🔗 GitHub: [Vaishnavic1676](https://github.com/Vaishnavic1676)
-💌 Email: *\[your-email] (optional)*
+
 
 ---
 
